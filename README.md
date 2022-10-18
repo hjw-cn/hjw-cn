@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @hjw-cn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=%F0%9F%94%88Code+is+a+tool%2C+thought+is+the+essence" alt="Typing SVG" /></a>
 
-<!---
-hjw-cn/hjw-cn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="">
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=hjw-cn" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjw-cn&layout=compact&langs_count=8" />
+<span>  </span>
+</div>
