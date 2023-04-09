@@ -1,1 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=%F0%9F%94%88Code+is+a+tool%2C+thought+is+the+essence" alt="Typing SVG" /></a>
+- 2016-2020 西安科技大学 软件工程专业💻。
+- 主业后端开发工程师，熟悉SpringBoot、SpringCloud、Mybatis、SpringMVC等JavaWeb开发框架🚀。
+- 也是一名前端爱好者，会一丢丢的React、Vue、Ant Design、TailWind Css等框架✨。
+- 还是一名业余Python开发者，了解一点Gunicorn、Flask、Django等框架🐍。
+- 最近在学习机器学习的一些知识🤖。
